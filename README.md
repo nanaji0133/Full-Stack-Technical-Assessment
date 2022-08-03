@@ -38,3 +38,5 @@ Please see all commands inside `Makefile`.
     You can use `php artisan` to create laravel files quickly
 - `make logs.watch` - this will show you all docker logs and automatically update them
     - You can use `make logs.{api,ui,db}` to filter it to a specific container
+
+
